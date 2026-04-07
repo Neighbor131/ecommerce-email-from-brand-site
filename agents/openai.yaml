@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecommerce Email Builder"
+  short_description: "Audit a brand and build high-converting ecommerce emails"
+  default_prompt: "Use $ecommerce-email-from-brand-site to create a staged, brand-faithful ecommerce email from a site, existing email examples, and reusable layout references."
