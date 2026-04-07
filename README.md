@@ -64,6 +64,13 @@ Stay faithful to the site’s real tone, product logic, and design direction.
 Do not invent claims or promotions.
 Flag anything that needs confirmation.
 ```
+```compact
+Use the ecommerce email skill for [site].
+Create a [email type] email in mixed image mode.
+Deliver the full staged files plus HTML.
+Stay brand-faithful and flag uncertainties.
+
+```
 
 ## Gemini Banner Generator
 
